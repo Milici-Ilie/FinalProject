@@ -16,8 +16,20 @@
 
                                                         ❗❗❗ 📃📃[CREATING PAGES & ROUTES]📃📃 ❗❗❗
 
-## 3. -How to make a file visible on all pages
+# 3. -How to make a file visible on all pages
      -Using Layout to make files/components visible on all pages
      -So in the Layout.js file we must includ out files/components in the <body> section if we want to make them visible an all the pages
 
 [APP/layout.js]
+
+# 4. -Modifing the SideBar
+     - How to use/implement ICONS with React Icons
+     - How to install React Icons [npm i react-icons]
+     - Site: https://react-icons.github.io/react-icons/
+     - How to use the Link, how to connect routes to images, how to create connections, links
+
+-We need to copy the "import ... code ..." for the icons that we need from the site ubove 👆, and paste it at the top of our page were we need it, and than use in the file
+
+[SRC/APP/Sidebar.jsx]
+
+                                                        ❗❗❗ 🈴🈴[ICONS, LINK's]🈴🈴 ❗❗❗
